@@ -1,0 +1,5 @@
+Primeiro ligaria o interruptor 1 e deixaria alguns minutos ligado, deixando o suficiente para a lampada aquecer.
+Desligaria o interruptor 1 , ligaria imediatamente o interruptor 2 e iria para a sala 1 verificar o estado da lampada.
+Se estivesse acessa, significa que é do interruptor 2, se estiver desligada e quente é do interruptor 1 e se estiver desligada e fria é do interruptor 3.
+Na sequência iria para a sala 2, verificar o estado da lampada 2. Analisaria de forma análoga ao passo anterior para saber de qual interruptor a lampada 2 está associada.
+E por consequência a lampada 3 não necessitaria ser verificada, pois conforme a descrição da tarefa a lampada 3 seria do interruptor que não foi associado a nenhum dos interruptores anteriores.
